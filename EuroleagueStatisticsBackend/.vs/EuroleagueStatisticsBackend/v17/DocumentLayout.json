@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ginta\\source\\repos\\EuroleagueStatisticsBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F752D46-3C59-4B90-B306-281B5B379B56}|EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend.csproj|c:\\users\\ginta\\source\\repos\\euroleaguestatisticsbackend\\euroleaguestatisticsbackend\\data\\updates\\initialupdatemodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F752D46-3C59-4B90-B306-281B5B379B56}|EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend.csproj|solutionrelative:euroleaguestatisticsbackend\\data\\updates\\initialupdatemodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F752D46-3C59-4B90-B306-281B5B379B56}|EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend.csproj|c:\\users\\ginta\\source\\repos\\euroleaguestatisticsbackend\\euroleaguestatisticsbackend\\data\\entities\\playerround.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F752D46-3C59-4B90-B306-281B5B379B56}|EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend.csproj|solutionrelative:euroleaguestatisticsbackend\\data\\entities\\playerround.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F752D46-3C59-4B90-B306-281B5B379B56}|EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend.csproj|c:\\users\\ginta\\source\\repos\\euroleaguestatisticsbackend\\euroleaguestatisticsbackend\\data\\entities\\teamround.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F752D46-3C59-4B90-B306-281B5B379B56}|EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend.csproj|solutionrelative:euroleaguestatisticsbackend\\data\\entities\\teamround.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F752D46-3C59-4B90-B306-281B5B379B56}|EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend.csproj|c:\\users\\ginta\\source\\repos\\euroleaguestatisticsbackend\\euroleaguestatisticsbackend\\data\\entities\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F752D46-3C59-4B90-B306-281B5B379B56}|EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend.csproj|solutionrelative:euroleaguestatisticsbackend\\data\\entities\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F752D46-3C59-4B90-B306-281B5B379B56}|EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend.csproj|c:\\users\\ginta\\source\\repos\\euroleaguestatisticsbackend\\euroleaguestatisticsbackend\\data\\updates\\teamstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F752D46-3C59-4B90-B306-281B5B379B56}|EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend.csproj|solutionrelative:euroleaguestatisticsbackend\\data\\updates\\teamstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F752D46-3C59-4B90-B306-281B5B379B56}|EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend.csproj|c:\\users\\ginta\\source\\repos\\euroleaguestatisticsbackend\\euroleaguestatisticsbackend\\data\\updates\\quarterstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F752D46-3C59-4B90-B306-281B5B379B56}|EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend.csproj|solutionrelative:euroleaguestatisticsbackend\\data\\updates\\quarterstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F752D46-3C59-4B90-B306-281B5B379B56}|EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend.csproj|c:\\users\\ginta\\source\\repos\\euroleaguestatisticsbackend\\euroleaguestatisticsbackend\\data\\entities\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F752D46-3C59-4B90-B306-281B5B379B56}|EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend.csproj|solutionrelative:euroleaguestatisticsbackend\\data\\entities\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F752D46-3C59-4B90-B306-281B5B379B56}|EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend.csproj|c:\\users\\ginta\\source\\repos\\euroleaguestatisticsbackend\\euroleaguestatisticsbackend\\data\\updates\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F752D46-3C59-4B90-B306-281B5B379B56}|EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend.csproj|solutionrelative:euroleaguestatisticsbackend\\data\\updates\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F752D46-3C59-4B90-B306-281B5B379B56}|EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend.csproj|c:\\users\\ginta\\source\\repos\\euroleaguestatisticsbackend\\euroleaguestatisticsbackend\\data\\updates\\gamestats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F752D46-3C59-4B90-B306-281B5B379B56}|EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend.csproj|solutionrelative:euroleaguestatisticsbackend\\data\\updates\\gamestats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F752D46-3C59-4B90-B306-281B5B379B56}|EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend.csproj|c:\\users\\ginta\\source\\repos\\euroleaguestatisticsbackend\\euroleaguestatisticsbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F752D46-3C59-4B90-B306-281B5B379B56}|EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend.csproj|solutionrelative:euroleaguestatisticsbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F752D46-3C59-4B90-B306-281B5B379B56}|EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend.csproj|c:\\users\\ginta\\source\\repos\\euroleaguestatisticsbackend\\euroleaguestatisticsbackend\\data\\statisticsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F752D46-3C59-4B90-B306-281B5B379B56}|EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend.csproj|solutionrelative:euroleaguestatisticsbackend\\data\\statisticsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F752D46-3C59-4B90-B306-281B5B379B56}|EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend.csproj|c:\\users\\ginta\\source\\repos\\euroleaguestatisticsbackend\\euroleaguestatisticsbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F752D46-3C59-4B90-B306-281B5B379B56}|EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend.csproj|solutionrelative:euroleaguestatisticsbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F752D46-3C59-4B90-B306-281B5B379B56}|EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend.csproj|c:\\users\\ginta\\source\\repos\\euroleaguestatisticsbackend\\euroleaguestatisticsbackend\\data\\updates\\gameinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F752D46-3C59-4B90-B306-281B5B379B56}|EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend.csproj|solutionrelative:euroleaguestatisticsbackend\\data\\updates\\gameinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F752D46-3C59-4B90-B306-281B5B379B56}|EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend.csproj|c:\\users\\ginta\\source\\repos\\euroleaguestatisticsbackend\\euroleaguestatisticsbackend\\migrations\\20240303172132_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F752D46-3C59-4B90-B306-281B5B379B56}|EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend.csproj|solutionrelative:euroleaguestatisticsbackend\\migrations\\20240303172132_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F752D46-3C59-4B90-B306-281B5B379B56}|EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend.csproj|c:\\users\\ginta\\source\\repos\\euroleaguestatisticsbackend\\euroleaguestatisticsbackend\\migrations\\statisticsdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F752D46-3C59-4B90-B306-281B5B379B56}|EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend.csproj|solutionrelative:euroleaguestatisticsbackend\\migrations\\statisticsdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F752D46-3C59-4B90-B306-281B5B379B56}|EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend.csproj|c:\\users\\ginta\\source\\repos\\euroleaguestatisticsbackend\\euroleaguestatisticsbackend\\migrations\\20240310144518_generalinformation1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F752D46-3C59-4B90-B306-281B5B379B56}|EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend.csproj|solutionrelative:euroleaguestatisticsbackend\\migrations\\20240310144518_generalinformation1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F752D46-3C59-4B90-B306-281B5B379B56}|EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend.csproj|c:\\users\\ginta\\source\\repos\\euroleaguestatisticsbackend\\euroleaguestatisticsbackend\\migrations\\20240309133456_fantasystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F752D46-3C59-4B90-B306-281B5B379B56}|EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend.csproj|solutionrelative:euroleaguestatisticsbackend\\migrations\\20240309133456_fantasystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F752D46-3C59-4B90-B306-281B5B379B56}|EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend.csproj|c:\\users\\ginta\\source\\repos\\euroleaguestatisticsbackend\\euroleaguestatisticsbackend\\data\\entities\\generalinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F752D46-3C59-4B90-B306-281B5B379B56}|EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend.csproj|solutionrelative:euroleaguestatisticsbackend\\data\\entities\\generalinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F752D46-3C59-4B90-B306-281B5B379B56}|EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend.csproj|c:\\users\\ginta\\source\\repos\\euroleaguestatisticsbackend\\euroleaguestatisticsbackend\\data\\updates\\play.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F752D46-3C59-4B90-B306-281B5B379B56}|EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend.csproj|solutionrelative:euroleaguestatisticsbackend\\data\\updates\\play.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F752D46-3C59-4B90-B306-281B5B379B56}|EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend.csproj|c:\\users\\ginta\\source\\repos\\euroleaguestatisticsbackend\\euroleaguestatisticsbackend\\migrations\\20240309175018_fantasystats2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F752D46-3C59-4B90-B306-281B5B379B56}|EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend.csproj|solutionrelative:euroleaguestatisticsbackend\\migrations\\20240309175018_fantasystats2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F752D46-3C59-4B90-B306-281B5B379B56}|EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend.csproj|c:\\users\\ginta\\source\\repos\\euroleaguestatisticsbackend\\euroleaguestatisticsbackend\\migrations\\20240310144254_generalinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F752D46-3C59-4B90-B306-281B5B379B56}|EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend.csproj|solutionrelative:euroleaguestatisticsbackend\\migrations\\20240310144254_generalinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F752D46-3C59-4B90-B306-281B5B379B56}|EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend.csproj|c:\\users\\ginta\\source\\repos\\euroleaguestatisticsbackend\\euroleaguestatisticsbackend\\euroleaguestatisticsbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2F752D46-3C59-4B90-B306-281B5B379B56}|EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend.csproj|solutionrelative:euroleaguestatisticsbackend\\euroleaguestatisticsbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InitialUpdateModule.cs",
+              "DocumentMoniker": "C:\\Users\\ginta\\source\\repos\\EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend\\Data\\Updates\\InitialUpdateModule.cs",
+              "RelativeDocumentMoniker": "EuroleagueStatisticsBackend\\Data\\Updates\\InitialUpdateModule.cs",
+              "ToolTip": "C:\\Users\\ginta\\source\\repos\\EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend\\Data\\Updates\\InitialUpdateModule.cs",
+              "RelativeToolTip": "EuroleagueStatisticsBackend\\Data\\Updates\\InitialUpdateModule.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wCIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T14:50:20.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerStats.cs",
+              "DocumentMoniker": "C:\\Users\\ginta\\source\\repos\\EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend\\Data\\Updates\\PlayerStats.cs",
+              "RelativeDocumentMoniker": "EuroleagueStatisticsBackend\\Data\\Updates\\PlayerStats.cs",
+              "ToolTip": "C:\\Users\\ginta\\source\\repos\\EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend\\Data\\Updates\\PlayerStats.cs",
+              "RelativeToolTip": "EuroleagueStatisticsBackend\\Data\\Updates\\PlayerStats.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvx0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T18:56:33.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\ginta\\source\\repos\\EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend\\Data\\Entities\\Player.cs",
+              "RelativeDocumentMoniker": "EuroleagueStatisticsBackend\\Data\\Entities\\Player.cs",
+              "ToolTip": "C:\\Users\\ginta\\source\\repos\\EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend\\Data\\Entities\\Player.cs",
+              "RelativeToolTip": "EuroleagueStatisticsBackend\\Data\\Entities\\Player.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T14:40:59.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TeamStats.cs",
+              "DocumentMoniker": "C:\\Users\\ginta\\source\\repos\\EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend\\Data\\Updates\\TeamStats.cs",
+              "RelativeDocumentMoniker": "EuroleagueStatisticsBackend\\Data\\Updates\\TeamStats.cs",
+              "ToolTip": "C:\\Users\\ginta\\source\\repos\\EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend\\Data\\Updates\\TeamStats.cs",
+              "RelativeToolTip": "EuroleagueStatisticsBackend\\Data\\Updates\\TeamStats.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T18:56:14.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuarterStats.cs",
+              "DocumentMoniker": "C:\\Users\\ginta\\source\\repos\\EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend\\Data\\Updates\\QuarterStats.cs",
+              "RelativeDocumentMoniker": "EuroleagueStatisticsBackend\\Data\\Updates\\QuarterStats.cs",
+              "ToolTip": "C:\\Users\\ginta\\source\\repos\\EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend\\Data\\Updates\\QuarterStats.cs",
+              "RelativeToolTip": "EuroleagueStatisticsBackend\\Data\\Updates\\QuarterStats.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T18:55:42.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\ginta\\source\\repos\\EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend\\Data\\Entities\\Team.cs",
+              "RelativeDocumentMoniker": "EuroleagueStatisticsBackend\\Data\\Entities\\Team.cs",
+              "ToolTip": "C:\\Users\\ginta\\source\\repos\\EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend\\Data\\Entities\\Team.cs",
+              "RelativeToolTip": "EuroleagueStatisticsBackend\\Data\\Entities\\Team.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T18:19:40.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeamRound.cs",
+              "DocumentMoniker": "C:\\Users\\ginta\\source\\repos\\EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend\\Data\\Entities\\TeamRound.cs",
+              "RelativeDocumentMoniker": "EuroleagueStatisticsBackend\\Data\\Entities\\TeamRound.cs",
+              "ToolTip": "C:\\Users\\ginta\\source\\repos\\EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend\\Data\\Entities\\TeamRound.cs",
+              "RelativeToolTip": "EuroleagueStatisticsBackend\\Data\\Entities\\TeamRound.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T18:19:35.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerRound.cs",
+              "DocumentMoniker": "C:\\Users\\ginta\\source\\repos\\EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend\\Data\\Entities\\PlayerRound.cs",
+              "RelativeDocumentMoniker": "EuroleagueStatisticsBackend\\Data\\Entities\\PlayerRound.cs",
+              "ToolTip": "C:\\Users\\ginta\\source\\repos\\EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend\\Data\\Entities\\PlayerRound.cs",
+              "RelativeToolTip": "EuroleagueStatisticsBackend\\Data\\Entities\\PlayerRound.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T18:19:41.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameStats.cs",
+              "DocumentMoniker": "C:\\Users\\ginta\\source\\repos\\EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend\\Data\\Updates\\GameStats.cs",
+              "RelativeDocumentMoniker": "EuroleagueStatisticsBackend\\Data\\Updates\\GameStats.cs",
+              "ToolTip": "C:\\Users\\ginta\\source\\repos\\EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend\\Data\\Updates\\GameStats.cs",
+              "RelativeToolTip": "EuroleagueStatisticsBackend\\Data\\Updates\\GameStats.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T18:55:22.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ginta\\source\\repos\\EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend\\Program.cs",
+              "RelativeDocumentMoniker": "EuroleagueStatisticsBackend\\Program.cs",
+              "ToolTip": "C:\\Users\\ginta\\source\\repos\\EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend\\Program.cs",
+              "RelativeToolTip": "EuroleagueStatisticsBackend\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T13:15:43.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StatisticsDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ginta\\source\\repos\\EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend\\Data\\StatisticsDbContext.cs",
+              "RelativeDocumentMoniker": "EuroleagueStatisticsBackend\\Data\\StatisticsDbContext.cs",
+              "ToolTip": "C:\\Users\\ginta\\source\\repos\\EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend\\Data\\StatisticsDbContext.cs",
+              "RelativeToolTip": "EuroleagueStatisticsBackend\\Data\\StatisticsDbContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T14:41:08.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GameInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ginta\\source\\repos\\EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend\\Data\\Updates\\GameInfo.cs",
+              "RelativeDocumentMoniker": "EuroleagueStatisticsBackend\\Data\\Updates\\GameInfo.cs",
+              "ToolTip": "C:\\Users\\ginta\\source\\repos\\EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend\\Data\\Updates\\GameInfo.cs",
+              "RelativeToolTip": "EuroleagueStatisticsBackend\\Data\\Updates\\GameInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T18:15:56.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240303172132_initial.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ginta\\source\\repos\\EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend\\Migrations\\20240303172132_initial.Designer.cs",
+              "RelativeDocumentMoniker": "EuroleagueStatisticsBackend\\Migrations\\20240303172132_initial.Designer.cs",
+              "ToolTip": "C:\\Users\\ginta\\source\\repos\\EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend\\Migrations\\20240303172132_initial.Designer.cs",
+              "RelativeToolTip": "EuroleagueStatisticsBackend\\Migrations\\20240303172132_initial.Designer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T18:45:39.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ginta\\source\\repos\\EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "EuroleagueStatisticsBackend\\appsettings.json",
+              "ToolTip": "C:\\Users\\ginta\\source\\repos\\EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend\\appsettings.json",
+              "RelativeToolTip": "EuroleagueStatisticsBackend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-10T19:00:08.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StatisticsDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ginta\\source\\repos\\EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend\\Migrations\\StatisticsDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "EuroleagueStatisticsBackend\\Migrations\\StatisticsDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ginta\\source\\repos\\EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend\\Migrations\\StatisticsDbContextModelSnapshot.cs",
+              "RelativeToolTip": "EuroleagueStatisticsBackend\\Migrations\\StatisticsDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAA8CAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T18:20:00.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240310144518_GeneralInformation1.cs",
+              "DocumentMoniker": "C:\\Users\\ginta\\source\\repos\\EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend\\Migrations\\20240310144518_GeneralInformation1.cs",
+              "RelativeDocumentMoniker": "EuroleagueStatisticsBackend\\Migrations\\20240310144518_GeneralInformation1.cs",
+              "ToolTip": "C:\\Users\\ginta\\source\\repos\\EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend\\Migrations\\20240310144518_GeneralInformation1.cs",
+              "RelativeToolTip": "EuroleagueStatisticsBackend\\Migrations\\20240310144518_GeneralInformation1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T18:19:55.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240309133456_FantasyStats.cs",
+              "DocumentMoniker": "C:\\Users\\ginta\\source\\repos\\EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend\\Migrations\\20240309133456_FantasyStats.cs",
+              "RelativeDocumentMoniker": "EuroleagueStatisticsBackend\\Migrations\\20240309133456_FantasyStats.cs",
+              "ToolTip": "C:\\Users\\ginta\\source\\repos\\EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend\\Migrations\\20240309133456_FantasyStats.cs",
+              "RelativeToolTip": "EuroleagueStatisticsBackend\\Migrations\\20240309133456_FantasyStats.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T18:19:52.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GeneralInformation.cs",
+              "DocumentMoniker": "C:\\Users\\ginta\\source\\repos\\EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend\\Data\\Entities\\GeneralInformation.cs",
+              "RelativeDocumentMoniker": "EuroleagueStatisticsBackend\\Data\\Entities\\GeneralInformation.cs",
+              "ToolTip": "C:\\Users\\ginta\\source\\repos\\EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend\\Data\\Entities\\GeneralInformation.cs",
+              "RelativeToolTip": "EuroleagueStatisticsBackend\\Data\\Entities\\GeneralInformation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T14:40:54.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Play.cs",
+              "DocumentMoniker": "C:\\Users\\ginta\\source\\repos\\EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend\\Data\\Updates\\Play.cs",
+              "RelativeDocumentMoniker": "EuroleagueStatisticsBackend\\Data\\Updates\\Play.cs",
+              "ToolTip": "C:\\Users\\ginta\\source\\repos\\EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend\\Data\\Updates\\Play.cs",
+              "RelativeToolTip": "EuroleagueStatisticsBackend\\Data\\Updates\\Play.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T18:15:40.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240309175018_FantasyStats2.cs",
+              "DocumentMoniker": "C:\\Users\\ginta\\source\\repos\\EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend\\Migrations\\20240309175018_FantasyStats2.cs",
+              "RelativeDocumentMoniker": "EuroleagueStatisticsBackend\\Migrations\\20240309175018_FantasyStats2.cs",
+              "ToolTip": "C:\\Users\\ginta\\source\\repos\\EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend\\Migrations\\20240309175018_FantasyStats2.cs",
+              "RelativeToolTip": "EuroleagueStatisticsBackend\\Migrations\\20240309175018_FantasyStats2.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T14:43:46.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240310144254_GeneralInformation.cs",
+              "DocumentMoniker": "C:\\Users\\ginta\\source\\repos\\EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend\\Migrations\\20240310144254_GeneralInformation.cs",
+              "RelativeDocumentMoniker": "EuroleagueStatisticsBackend\\Migrations\\20240310144254_GeneralInformation.cs",
+              "ToolTip": "C:\\Users\\ginta\\source\\repos\\EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend\\Migrations\\20240310144254_GeneralInformation.cs",
+              "RelativeToolTip": "EuroleagueStatisticsBackend\\Migrations\\20240310144254_GeneralInformation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T14:43:37.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EuroleagueStatisticsBackend.csproj",
+              "DocumentMoniker": "C:\\Users\\ginta\\source\\repos\\EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend.csproj",
+              "RelativeDocumentMoniker": "EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend.csproj",
+              "ToolTip": "C:\\Users\\ginta\\source\\repos\\EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend.csproj",
+              "RelativeToolTip": "EuroleagueStatisticsBackend\\EuroleagueStatisticsBackend.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-03T13:45:16.074Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
